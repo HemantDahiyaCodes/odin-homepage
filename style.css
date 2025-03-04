@@ -46,7 +46,7 @@
 }
 
 .about-me {
-  height: 80vh;
+  height: 90vh;
   width: 90%;
   display: flex;
   flex-direction: column;
@@ -75,6 +75,7 @@
   font-size: 2rem;
   font-family: "lilita one";
   width: 100%;
+  text-align: end;
 }
 
 .second-section {
